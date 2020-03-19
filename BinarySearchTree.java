@@ -4,7 +4,7 @@
  * Sección: 30
  * Martín España Carné: 19258
  * Fecha de entrega: 18/03/2020
- * Implementación clase Binary Search Tree
+ * Implementación clase BinarySearchTree
  * @author, 2001 duane a. bailey
  * Última fecha de modificación: 18/03/2020
  * Versión: 1.0
@@ -18,7 +18,7 @@ import java.util.Comparator;
 	/*
 		Referencia para implementacion de binarySearchTree obtenida del libro de texto "Data Structures in Java for the principled Programmer" (Bailey, 2007),
 		y del ejemplo publicado por el catedrático Julio Ayala.
-		Además se utilzó como guía para el metodo de in-order el ejemplo de algorithms extraído de: https://algorithms.tutorialhorizon.com/binary-search-tree-complete-implementation/
+		Además se utilzó como guía el ejemplo de algorithms extraído de: https://algorithms.tutorialhorizon.com/binary-search-tree-complete-implementation/
 	*/
 
 //********************************************************************IMPORTANTE****************************************************************//

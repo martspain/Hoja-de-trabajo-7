@@ -4,7 +4,7 @@
  * Sección: 30
  * Martín España Carné: 19258
  * Fecha de entrega: 18/03/2020
- * Implementación clase Binary Search Tree
+ * Implementación clase BinaryTree
  * @author, 2001 duane a. bailey
  * Última fecha de modificación: 18/03/2020
  * Versión: 1.0
