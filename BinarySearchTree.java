@@ -10,10 +10,20 @@
  * Versión: 1.0
 */
 
-package structure5;
+
 import java.util.Iterator;
 import java.util.Comparator;
 
+
+	/*
+		Referencia para implementacion de binarySearchTree obtenida del libro de texto "Data Structures in Java for the principled Programmer" (Bailey, 2007),
+		y del ejemplo publicado por el catedrático Julio Ayala.
+		Además se utilzó como guía para el metodo de in-order el ejemplo de algorithms extraído de: https://algorithms.tutorialhorizon.com/binary-search-tree-complete-implementation/
+	*/
+
+//********************************************************************IMPORTANTE****************************************************************//
+//IMPORTANTE: por favor considerar lo siguiente: la clase binarySearchTree no compila, sin embargo no es necesaria para que el programa funcione. 
+//El ejercicio se realizó utilizando unicamente las clases binaryTree y comparableAssociation
 
 public class BinarySearchTree<E extends Comparable<E>>
 {

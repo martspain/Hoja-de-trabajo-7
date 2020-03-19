@@ -1,6 +1,6 @@
 
 // @author, 2001 duane a. bailey
-package structure5;
+
 import java.util.Map;
 
 public class ComparableAssociation<K,V>
